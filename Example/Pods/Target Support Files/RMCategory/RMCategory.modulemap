@@ -1,0 +1,6 @@
+framework module RMCategory {
+  umbrella header "RMCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

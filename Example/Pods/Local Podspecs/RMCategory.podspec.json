@@ -1,0 +1,22 @@
+{
+  "name": "RMCategory",
+  "version": "0.1.0",
+  "summary": "SZRM Categorys",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CSMediaGroup/iosPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "马佳": "5307460+azbura@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://github.com/马佳/RMCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RMCategory/Classes/**/*"
+}

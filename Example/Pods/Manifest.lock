@@ -1,0 +1,16 @@
+PODS:
+  - RMCategory (0.1.0)
+
+DEPENDENCIES:
+  - RMCategory (from `../`)
+
+EXTERNAL SOURCES:
+  RMCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RMCategory: f73e8c2f6963cc3f8e3b26acf455dd4b70f6ab63
+
+PODFILE CHECKSUM: ed2516e9e32c81f5ca6a72392d9a4ef8d889de4b
+
+COCOAPODS: 1.11.3
